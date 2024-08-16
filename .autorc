@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "rogerswb",
+  "repo": "container-25gbz4",
+  "name": "rogerswb",
+  "email": "rogers.wb@gmail.com",
+}
